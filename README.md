@@ -1,8 +1,11 @@
 ### Hi there, I'm jihye! 👋
 
 안녕하세요, 현재 풀스택 개발자로 일하고 있는 임지혜입니다.
-주요 기술 스택은 Java&SpringBoot이며 JPA와 MyBatis를 사용합니다.
-프론트 개발은 JS와 Vue.js로 작업합니다.
+
+##### 주요 기술 스택
+- Java, SpringBoot, JPA, MyBatis, RDBMS(Oracle, MyBatis), NoSQL(MongoDB)
+- JavaScript, Vue.js
+
 그 외에도 최근에 Golang에 관심이 생겨 공부를 시작하였습니다.
 
 
