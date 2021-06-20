@@ -2,7 +2,7 @@
 
 안녕하세요, 현재 풀스택 개발자로 일하고 있는 임지혜입니다.
 
-##### 주요 기술 스택
+#### 주요 기술 스택
 - Java, SpringBoot, JPA, MyBatis, RDBMS(Oracle, MyBatis), NoSQL(MongoDB)
 - JavaScript, Vue.js
 
