@@ -6,8 +6,6 @@
 - Java, SpringBoot, JPA, MyBatis, RDBMS(Oracle, MyBatis), NoSQL(MongoDB)
 - JavaScript, Vue.js
 
-그 외에도 최근에 Golang에 관심이 생겨 공부를 시작하였습니다.
-
 
 
 <!--
