@@ -1,11 +1,21 @@
 ### Hi there, I'm jihye! 👋
 
-안녕하세요, 현재 풀스택 개발자로 일하고 있는 임지혜입니다.
+I'm a Full-Stack Developer based in Seoul 🇰🇷, passionate about building reliable and scalable web applications.
 
-#### <주요 기술 스택>
-- Java, SpringBoot, JPA, MyBatis, RDBMS(Oracle, MyBatis, PostgreSQL), NoSQL(MongoDB)
-- JavaScript, (a bit of) TypeScript, Vue.js
+### 🛠️ Tech Stack
+**Backend**
+- Java · Spring Boot · JPA · MyBatis
+- Oracle · PostgreSQL · MySQL · MongoDB · Redis
 
+**Frontend**
+- JavaScript · TypeScript · Vue.js · React
+
+### 🌱 Currently
+- Deepening my expertise in backend architecture and cloud-native development
+- Open to new opportunities in Europe 🇪🇺
+
+### 📫 Let's connect!
+Feel free to reach out — always happy to talk tech or collaborate on interesting projects.
 
 
 <!--
