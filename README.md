@@ -4,7 +4,7 @@ I'm a Full-Stack Developer based in Seoul 🇰🇷, passionate about building re
 
 ### 🛠️ Tech Stack
 **Backend**
-- Java · Spring Boot · JPA · MyBatis
+- Java · Spring Boot · JPA · QueryDSL
 - Oracle · PostgreSQL · MySQL · MongoDB · Redis
 
 **Frontend**
